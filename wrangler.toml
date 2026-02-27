@@ -14,7 +14,7 @@ binding = "R2"
 bucket_name = "twikoo"
 
 [vars]
-R2_PUBLIC_URL = "https://twikooforevcy.dpdns.org"
+R2_PUBLIC_URL = "https://pub-f85b7311c6ac4ba3b307368e1dd213dc.r2.dev"
 
 [dev]
 port = 5000
